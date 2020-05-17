@@ -1,0 +1,8 @@
+Wrong data format in line 1: AA
+Wrong data format in line 5: DD
+Wrong data format in line 14: AA
+12 - occurence number: 4
+2 - occurence number: 2
+5 - occurence number: 3
+6 - occurence number: 1
+9 - occurence number: 2
